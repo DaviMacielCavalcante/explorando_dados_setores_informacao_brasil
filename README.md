@@ -6,3 +6,5 @@
 - Os dados foram obtidos do SIDRA.
 ## Caso queira fazer uso dos datasets
 Basta fazer uso dos dados presente no diretório "datasets"
+## Sobre o desafio
+Como eu gosto de ter perspecivas de outras pessoas, criei um pequeno desafio (creio ser de nível iniciante) para quem tiver interesse. Caso você opte por fazer o desafio, por favor entre em contato. Adoraria ver o que você fez.
